@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+data/
+
+*.pt
+*.pth
+*.ckpt
+
+logs/
+runs/
+
+.ipynb_checkpoints/
+
+.DS_Store
